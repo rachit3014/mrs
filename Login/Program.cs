@@ -10,6 +10,8 @@ namespace Login
     {
         static void Main(string[] args)
         {
+            Log Login =new Log();
+            Login.login();
         }
     }
 }
